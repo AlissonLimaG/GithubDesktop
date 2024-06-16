@@ -1,3 +1,3 @@
 # GithubDesktop
-Testando Github Desktop para meus projetos.
+Testando uso do Github Desktop para versionar meus projetos.
 :)
